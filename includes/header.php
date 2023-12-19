@@ -11,8 +11,8 @@
     <title>Vagas PHP</title>
   </head>
   <body class="bg-dark text-light">
-    <div class="container">
-      <div class="jumbotron bg-danger">
+    <div class="container flex flex-column align-items-start">
+      <div class="bg-danger align-items-start justify-content-start">
         <h1>Vagas PHP</h1>
         <p>Exemplo de CRUD com PHP com POO</p>
       </div>  
