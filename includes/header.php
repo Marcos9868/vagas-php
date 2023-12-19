@@ -10,4 +10,9 @@
 
     <title>Vagas PHP</title>
   </head>
-  <body>
+  <body class="bg-dark text-light">
+    <div class="container flex flex-column align-items-start">
+      <div class="bg-danger align-items-start justify-content-start">
+        <h1>Vagas PHP</h1>
+        <p>Exemplo de CRUD com PHP com POO</p>
+      </div>  
